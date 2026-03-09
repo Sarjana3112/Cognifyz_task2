@@ -120,5 +120,3 @@ while True:
         continuous_number_pyramid(rows)
     else:
         print("Invalid choice! Please select between 1 and 11.")
-
-# Hold the screen (important if window closes fast)
